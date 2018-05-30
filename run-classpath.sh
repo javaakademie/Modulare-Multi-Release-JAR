@@ -1,0 +1,1 @@
+java -jar multi-release-jar-example.jar
